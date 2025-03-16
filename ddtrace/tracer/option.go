@@ -65,6 +65,7 @@ var contribIntegrations = map[string]struct {
 	"github.com/go-redis/redis/v7":                  {"Redis v7", false},
 	"github.com/go-redis/redis/v8":                  {"Redis v8", false},
 	"go.mongodb.org/mongo-driver":                   {"MongoDB", false},
+	"go.mongodb.org/mongo-driver/v2":                {"MongoDB v2", false},
 	"github.com/gocql/gocql":                        {"Cassandra", false},
 	"github.com/gofiber/fiber/v2":                   {"Fiber", false},
 	"github.com/gomodule/redigo":                    {"Redigo", false},
